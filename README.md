@@ -1,84 +1,66 @@
 # iOS Device Detect
 Detect iOS Device based on Device Model.
 
-## Code
+## iPhone
 
-```if ([platform isEqualToString:@"iPhone2,1"]) return @"iPhone 3GS";
-if ([platform isEqualToString:@"iPhone3,1"]) return @"iPhone 4";
-if ([platform isEqualToString:@"iPhone3,2"]) return @"iPhone 4";
-if ([platform isEqualToString:@"iPhone3,3"]) return @"iPhone 4";
-if ([platform isEqualToString:@"iPhone4,1"]) return @"iPhone 4S";
-if ([platform isEqualToString:@"iPhone5,1"]) return @"iPhone 5";
-if ([platform isEqualToString:@"iPhone5,2"]) return @"iPhone 5";
-if ([platform isEqualToString:@"iPhone5,3"]) return @"iPhone 5c";
-if ([platform isEqualToString:@"iPhone5,4"]) return @"iPhone 5c";
-if ([platform isEqualToString:@"iPhone6,1"]) return @"iPhone 5s";
-if ([platform isEqualToString:@"iPhone6,2"]) return @"iPhone 5s";
-if ([platform isEqualToString:@"iPhone7,1"]) return @"iPhone 6 Plus";
-if ([platform isEqualToString:@"iPhone7,2"]) return @"iPhone 6";
-if ([platform isEqualToString:@"iPhone8,1"]) return @"iPhone 6S";
-if ([platform isEqualToString:@"iPhone8,2"]) return @"iPhone 6S Plus";
-if ([platform isEqualToString:@"iPhone8,4"]) return @"iPhone SE";
-if ([platform isEqualToString:@"iPhone9,1"]) return @"iPhone 7";
-if ([platform isEqualToString:@"iPhone9,2"]) return @"iPhone 7 Plus";
-if ([platform isEqualToString:@"iPhone9,3"]) return @"iPhone 7";
-if ([platform isEqualToString:@"iPhone9,4"]) return @"iPhone 7 Plus";
-
-if ([platform isEqualToString:@"iPod4,1"]) return @"iPod touch 4";
-if ([platform isEqualToString:@"iPod5,1"]) return @"iPod touch 5";
-if ([platform isEqualToString:@"iPod7,1"]) return @"iPod touch 6";
-
-if ([platform isEqualToString:@"iPad2,1"]) return @"iPad 2";
-if ([platform isEqualToString:@"iPad2,2"]) return @"iPad 2";
-if ([platform isEqualToString:@"iPad2,3"]) return @"iPad 2";
-if ([platform isEqualToString:@"iPad2,4"]) return @"iPad 2";
-if ([platform isEqualToString:@"iPad2,5"]) return @"iPad mini";
-if ([platform isEqualToString:@"iPad2,6"]) return @"iPad mini";
-if ([platform isEqualToString:@"iPad2,7"]) return @"iPad mini";
-
-if ([platform isEqualToString:@"iPad3,1"]) return @"iPad 3";
-if ([platform isEqualToString:@"iPad3,2"]) return @"iPad 3";
-if ([platform isEqualToString:@"iPad3,3"]) return @"iPad 3";
-if ([platform isEqualToString:@"iPad3,4"]) return @"iPad 4";
-if ([platform isEqualToString:@"iPad3,5"]) return @"iPad 4";
-if ([platform isEqualToString:@"iPad3,6"]) return @"iPad 4";
-
-if ([platform isEqualToString:@"iPad4,1"]) return @"iPad Air";
-if ([platform isEqualToString:@"iPad4,2"]) return @"iPad Air";
-if ([platform isEqualToString:@"iPad4,3"]) return @"iPad Air";
-if ([platform isEqualToString:@"iPad4,4"]) return @"iPad mini 2";
-if ([platform isEqualToString:@"iPad4,5"]) return @"iPad mini 2";
-if ([platform isEqualToString:@"iPad4,6"]) return @"iPad mini 2";
-if ([platform isEqualToString:@"iPad4,7"]) return @"iPad mini 3";
-if ([platform isEqualToString:@"iPad4,8"]) return @"iPad mini 3";
-if ([platform isEqualToString:@"iPad4,9"]) return @"iPad mini 3";
-
-if ([platform isEqualToString:@"iPad5,1"]) return @"iPad mini 4";
-if ([platform isEqualToString:@"iPad5,2"]) return @"iPad mini 4";
-if ([platform isEqualToString:@"iPad5,3"]) return @"iPad Air 2";
-if ([platform isEqualToString:@"iPad5,4"]) return @"iPad Air 2";
-
-if ([platform isEqualToString:@"iPad6,3"]) return @"iPad Pro 9.7";
-if ([platform isEqualToString:@"iPad6,4"]) return @"iPad Pro 9.7";
-if ([platform isEqualToString:@"iPad6,7"]) return @"iPad Pro 12.9";
-if ([platform isEqualToString:@"iPad6,8"]) return @"iPad Pro 12.9";
-
-if ([platform isEqualToString:@"AppleTV5,3"]) return @"Apple TV";
-
-if ([platform isEqualToString:@"i386"]) return @"iPhone Simulator";
-if ([platform isEqualToString:@"x86_64"]) return @"iPhone Simulator";
+```
+"iPhone3,1", "iPhone3,2", "iPhone3,3":      iPhone 4
+"iPhone4,1", "iPhone4,2", "iPhone4,3":      iPhone 4S
+"iPhone5,1", "iPhone5,2":                   iPhone 5
+"iPhone5,3", "iPhone5,4":                   iPhone 5C
+"iPhone6,1", "iPhone6,2":                   iPhone 5S
+"iPhone7,2":                                iPhone 6
+"iPhone7,1":                                iPhone 6 Plus
+"iPhone8,1":                                iPhone 6S
+"iPhone8,2":                                iPhone 6S Plus
+"iPhone8,4":                                iPhone SE
+"iPhone9,1", "iPhone9,3":                   iPhone 7
+"iPhone9,2", "iPhone9,4":                   iPhone 7 Plus
 ```
 
-## Unsupport iOS6
+## iPad
 
-```if ([platform isEqualToString:@"iPhone1,1"]) return @"iPhone";
-if ([platform isEqualToString:@"iPhone1,2"]) return @"iPhone 3G";
-if ([platform isEqualToString:@"iPad1,1"]) return @"iPad";
-if ([platform isEqualToString:@"iPod1,1"]) return @"iPod touch";
-if ([platform isEqualToString:@"iPod2,1"]) return @"iPod touch 2";
-if ([platform isEqualToString:@"iPod3,1"]) return @"iPod touch 3";
+```
+"iPad1,1":                                  iPad 1
+"iPad2,1", "iPad2,2", "iPad2,3", "iPad2,4": iPad 2
+"iPad3,1", "iPad3,2", "iPad3,3":            iPad 3
+"iPad3,4", "iPad3,5", "iPad3,6":            iPad 4
+"iPad6,11", "iPad6,12":                     iPad 5
+"iPad4,1", "iPad4,2", "iPad4,3":            iPad Air
+"iPad5,3", "iPad5,4":                       iPad Air 2
+"iPad2,5", "iPad2,6", "iPad2,7":            iPad Mini
+"iPad4,4", "iPad4,5", "iPad4,6":            iPad Mini 2
+"iPad4,7", "iPad4,8", "iPad4,9":            iPad Mini 3
+"iPad5,1", "iPad5,2":                       iPad Mini 4
+"iPad6,7", "iPad6,8", "iPad7,1", "iPad7,2": iPad Pro 12.9
+"iPad7,3", "iPad7,4":                       iPad Pro 10.5
+"iPad6,3", "iPad6,4":                       iPad Pro 9.7
 ```
 
-## Contact
+## iPod
 
+```
+"iPod1,1":                                  iPod Touch 1
+"iPod2,1":                                  iPod Touch 2
+"iPod3,1":                                  iPod Touch 3
+"iPod4,1":                                  iPod Touch 4
+"iPod5,1":                                  iPod Touch 5
+"iPod7,1":                                  iPod Touch 6
+```
+
+## Simulator
+
+```
+"i386", "x86_64":                           Simulator
+```
+
+## Apple TV
+
+```
+"AppleTV5,3":                               Apple TV
+```
+
+## Information
+
+* References: [Models - The iPhone Wiki](https://www.theiphonewiki.com/wiki/Models)
 * Author: [Pluwen](https://twitter.com/pluwen)
