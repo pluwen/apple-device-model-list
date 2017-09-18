@@ -1,5 +1,5 @@
-# iOS Device Detect
-Detect iOS Device based on Device Model.
+# Apple_Device_Model_list
+Apple devices model list.
 
 ## iPhone
 
@@ -60,7 +60,10 @@ Detect iOS Device based on Device Model.
 ## Apple TV
 
 ```
-"AppleTV5,3":                               Apple TV
+"AppleTV2,1":                               Apple TV 2
+"AppleTV3,1", "AppleTV3,2":                 Apple TV 3
+"AppleTV5,3":                               Apple TV 4
+"AppleTV6,2":                               Apple TV 4K
 ```
 
 ## Information
