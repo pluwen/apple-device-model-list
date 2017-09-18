@@ -1,5 +1,7 @@
-# iOS_Device_Detect
+# iOS Device Detect
 Detect iOS Device based on Device Model.
+
+## Code
 
 ```if ([platform isEqualToString:@"iPhone2,1"]) return @"iPhone 3GS";
 if ([platform isEqualToString:@"iPhone3,1"]) return @"iPhone 4";
@@ -67,7 +69,7 @@ if ([platform isEqualToString:@"i386"]) return @"iPhone Simulator";
 if ([platform isEqualToString:@"x86_64"]) return @"iPhone Simulator";
 ```
 
-### Unsupport iOS6
+## Unsupport iOS6
 
 ```if ([platform isEqualToString:@"iPhone1,1"]) return @"iPhone";
 if ([platform isEqualToString:@"iPhone1,2"]) return @"iPhone 3G";
@@ -76,3 +78,7 @@ if ([platform isEqualToString:@"iPod1,1"]) return @"iPod touch";
 if ([platform isEqualToString:@"iPod2,1"]) return @"iPod touch 2";
 if ([platform isEqualToString:@"iPod3,1"]) return @"iPod touch 3";
 ```
+
+## Contact
+
+* Author: [Pluwen](https://twitter.com/pluwen)
