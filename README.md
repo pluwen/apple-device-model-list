@@ -1,4 +1,4 @@
-# Apple_Device_Model_list
+# Apple Device Model list
 Apple devices model list.
 
 ## iPhone
