@@ -69,6 +69,12 @@ Apple devices model list.
 "Watch3,1", "Watch3,2", "Watch3,3", "Watch3,4":    Apple Watch Series 3
 ```
 
+## HomePod
+
+```
+"AudioAccessory1,1":                                HomePod
+```
+
 ## Simulator
 
 ```
