@@ -86,3 +86,7 @@ Apple devices model list.
 
 * References: [Models - The iPhone Wiki](https://www.theiphonewiki.com/wiki/Models)
 * Author: [Pluwen](https://twitter.com/pluwen)
+
+## Donate
+
+![Donate image](https://github.com/pluwen/Apple-Device-Model-list/raw/master/donate.jpg "Thank you for your support!")
