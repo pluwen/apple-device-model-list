@@ -68,6 +68,7 @@ Apple devices model list.
 "Watch2,6", "Watch2,7":                            Apple Watch Series 1
 "Watch2,3", "Watch2,4":                            Apple Watch Series 2
 "Watch3,1", "Watch3,2", "Watch3,3", "Watch3,4":    Apple Watch Series 3
+"Watch4,1", "Watch4,2", "Watch4,3", "Watch4,4":    Apple Watch Series 4
 ```
 
 ## HomePod
