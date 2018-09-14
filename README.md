@@ -19,6 +19,9 @@ Apple devices model list.
 "iPhone10,1", "iPhone10,4":                        iPhone 8
 "iPhone10,2", "iPhone10,5":                        iPhone 8 Plus
 "iPhone10,3", "iPhone10,6":                        iPhone X
+"iPhone11,2":                                      iPhone Xs
+"iPhone11,4", "iPhone11,6":                        iPhone Xs Max
+"iPhone11,8":                                      iPhone Xʀ
 ```
 
 ## iPad
