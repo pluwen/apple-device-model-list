@@ -4,6 +4,9 @@ Apple devices model list.
 ## iPhone
 
 ```
+"iPhone1,1":                                       iPhone
+"iPhone1,2":                                       iPhone 3G
+"iPhone2,1":                                       iPhone 3GS
 "iPhone3,1", "iPhone3,2", "iPhone3,3":             iPhone 4
 "iPhone4,1", "iPhone4,2", "iPhone4,3":             iPhone 4S
 "iPhone5,1", "iPhone5,2":                          iPhone 5
@@ -27,7 +30,7 @@ Apple devices model list.
 ## iPad
 
 ```
-"iPad1,1":                                         iPad 1
+"iPad1,1":                                         iPad
 "iPad2,1", "iPad2,2", "iPad2,3", "iPad2,4":        iPad 2
 "iPad3,1", "iPad3,2", "iPad3,3":                   iPad 3
 "iPad3,4", "iPad3,5", "iPad3,6":                   iPad 4
@@ -47,7 +50,7 @@ Apple devices model list.
 ## iPod
 
 ```
-"iPod1,1":                                         iPod Touch 1
+"iPod1,1":                                         iPod Touch
 "iPod2,1":                                         iPod Touch 2
 "iPod3,1":                                         iPod Touch 3
 "iPod4,1":                                         iPod Touch 4
