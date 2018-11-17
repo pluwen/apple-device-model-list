@@ -42,9 +42,12 @@ Apple devices model list.
 "iPad4,4", "iPad4,5", "iPad4,6":                   iPad Mini 2
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
 "iPad5,1", "iPad5,2":                              iPad Mini 4
-"iPad6,3", "iPad6,4":                              iPad Pro 9.7
-"iPad6,7", "iPad6,8", "iPad7,1", "iPad7,2":        iPad Pro 12.9
-"iPad7,3", "iPad7,4":                              iPad Pro 10.5
+"iPad6,3", "iPad6,4":                              iPad Pro 9.7-inch
+"iPad7,3", "iPad7,4":                              iPad Pro 10.5-inch
+"iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
+"iPad6,7", "iPad6,8":                              iPad Pro 12.9-inch
+"iPad7,1", "iPad7,2":                              iPad Pro 12.9-inch 2
+"iPad8,5", "iPad8,6", "iPad8,7", "iPad8,8":        iPad Pro 12.9-inch 3
 ```
 
 ## iPod
