@@ -25,6 +25,9 @@ Apple devices model list.
 "iPhone11,2":                                      iPhone Xs
 "iPhone11,4", "iPhone11,6":                        iPhone Xs Max
 "iPhone11,8":                                      iPhone Xʀ
+"iPhone12,1":                                      iPhone 11
+"iPhone12,3":                                      iPhone 11 Pro
+"iPhone12,5":                                      iPhone 11 Pro Max
 ```
 
 ## iPad
@@ -94,10 +97,14 @@ Apple devices model list.
 "i386", "x86_64":                                  Simulator
 ```
 
-## Information
+## Data
 
-* References: [Models - The iPhone Wiki](https://www.theiphonewiki.com/wiki/Models)
-* Author: [Pluwen](https://twitter.com/pluwen)
+* [Models - The iPhone Wiki](https://www.theiphonewiki.com/wiki/Models)
+* [EveryiPhone.com](https://everymac.com/systems/apple/iphone/index-iphone-specs.html)
+
+## Author
+
+* [Pluwen](https://twitter.com/pluwen)
 
 ## Donate
 
