@@ -39,6 +39,7 @@ Apple devices model list.
 "iPad3,4", "iPad3,5", "iPad3,6":                   iPad 4
 "iPad6,11", "iPad6,12":                            iPad 5
 "iPad7,5", "iPad7,6":                              iPad 6
+"iPad7,11", "iPad7,12":                            iPad 7
 "iPad4,1", "iPad4,2", "iPad4,3":                   iPad Air
 "iPad5,3", "iPad5,4":                              iPad Air 2
 "iPad11,3", "iPad11,4":                            iPad Air 3
