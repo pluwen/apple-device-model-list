@@ -59,10 +59,12 @@ Apple devices model list.
 "iPad7,3", "iPad7,4":                              iPad Pro 10.5-inch
 "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
 "iPad8,9", "iPad8,10":                             iPad Pro 11-inch 2
+"iPad13,4", "iPad13,5", "iPad13,6", "iPad13,7":    iPad Pro 11-inch 3
 "iPad6,7", "iPad6,8":                              iPad Pro 12.9-inch
 "iPad7,1", "iPad7,2":                              iPad Pro 12.9-inch 2
 "iPad8,5", "iPad8,6", "iPad8,7", "iPad8,8":        iPad Pro 12.9-inch 3
 "iPad8,11", "iPad8,12":                            iPad Pro 12.9-inch 4
+"iPad13,8", "iPad13,9", "iPad13,10", "iPad13,11":  iPad Pro 12.9-inch 5
 ```
 
 ## iPod
