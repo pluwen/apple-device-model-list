@@ -33,6 +33,10 @@ Apple devices model list.
 "iPhone13,2":                                      iPhone 12
 "iPhone13,3":                                      iPhone 12 Pro
 "iPhone13,4":                                      iPhone 12 Pro Max
+"unknown":                                         iPhone 13 mini
+"unknown":                                         iPhone 13
+"unknown":                                         iPhone 13 Pro
+"unknown":                                         iPhone 13 Pro Max
 ```
 
 ## iPad
@@ -46,6 +50,7 @@ Apple devices model list.
 "iPad7,5", "iPad7,6":                              iPad 6
 "iPad7,11", "iPad7,12":                            iPad 7
 "iPad11,6", "iPad11,7":                            iPad 8
+"unknown":                                         iPad 9
 "iPad4,1", "iPad4,2", "iPad4,3":                   iPad Air
 "iPad5,3", "iPad5,4":                              iPad Air 2
 "iPad11,3", "iPad11,4":                            iPad Air 3
@@ -55,6 +60,7 @@ Apple devices model list.
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
 "iPad5,1", "iPad5,2":                              iPad Mini 4
 "iPad11,1", "iPad11,2":                            iPad Mini 5
+"unknown":                                         iPad Mini 6
 "iPad6,3", "iPad6,4":                              iPad Pro 9.7-inch
 "iPad7,3", "iPad7,4":                              iPad Pro 10.5-inch
 "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
@@ -96,6 +102,9 @@ Apple devices model list.
 "Watch3,1", "Watch3,2", "Watch3,3", "Watch3,4":    Apple Watch Series 3
 "Watch4,1", "Watch4,2", "Watch4,3", "Watch4,4":    Apple Watch Series 4
 "Watch5,1", "Watch5,2", "Watch5,3", "Watch5,4":    Apple Watch Series 5
+"Watch5,9", "Watch5,10", "Watch5,11", "Watch5,12": Apple Watch SE
+"Watch6,1", "Watch6,2", "Watch6,3", "Watch6,4":    Apple Watch Series 6
+"unknown":                                         Apple Watch Series 7
 ```
 
 ## HomePod
