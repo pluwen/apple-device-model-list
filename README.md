@@ -60,7 +60,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
 "iPad5,1", "iPad5,2":                              iPad Mini 4
 "iPad11,1", "iPad11,2":                            iPad Mini 5
-"unknown":                                         iPad Mini 6
+"iPad14,2":                                        iPad Mini 6
 "iPad6,3", "iPad6,4":                              iPad Pro 9.7-inch
 "iPad7,3", "iPad7,4":                              iPad Pro 10.5-inch
 "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
