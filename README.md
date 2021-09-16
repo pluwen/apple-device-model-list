@@ -1,5 +1,5 @@
 # Apple Device Model list
-Apple devices model list.
+Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model list.
 
 ## iPhone
 
@@ -87,10 +87,12 @@ Apple devices model list.
 ## Apple TV
 
 ```
+"AppleTV1,1":                                      Apple TV 1
 "AppleTV2,1":                                      Apple TV 2
 "AppleTV3,1", "AppleTV3,2":                        Apple TV 3
 "AppleTV5,3":                                      Apple TV 4
 "AppleTV6,2":                                      Apple TV 4K
+"AppleTV11,1":                                     Apple TV 4K 2
 ```
 
 ## Apple Watch
@@ -110,7 +112,8 @@ Apple devices model list.
 ## HomePod
 
 ```
-"AudioAccessory1,1":                                HomePod
+"AudioAccessory1,1", "AudioAccessory1,2":          HomePod
+"AudioAccessory5,1":                               HomePod mini
 ```
 
 ## Simulator
