@@ -33,10 +33,10 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPhone13,2":                                      iPhone 12
 "iPhone13,3":                                      iPhone 12 Pro
 "iPhone13,4":                                      iPhone 12 Pro Max
-"iPhone14,1":                                      iPhone 13 mini
-"iPhone14,2":                                      iPhone 13
-"iPhone14,3":                                      iPhone 13 Pro
-"iPhone14,4":                                      iPhone 13 Pro Max
+"iPhone14,4":                                      iPhone 13 mini
+"iPhone14,5":                                      iPhone 13
+"iPhone14,2":                                      iPhone 13 Pro
+"iPhone14,3":                                      iPhone 13 Pro Max
 ```
 
 ## iPad
@@ -50,7 +50,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad7,5", "iPad7,6":                              iPad 6
 "iPad7,11", "iPad7,12":                            iPad 7
 "iPad11,6", "iPad11,7":                            iPad 8
-"unknown":                                         iPad 9
+"iPad12,1", "iPad12,2"::                           iPad 9
 "iPad4,1", "iPad4,2", "iPad4,3":                   iPad Air
 "iPad5,3", "iPad5,4":                              iPad Air 2
 "iPad11,3", "iPad11,4":                            iPad Air 3
@@ -60,7 +60,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
 "iPad5,1", "iPad5,2":                              iPad Mini 4
 "iPad11,1", "iPad11,2":                            iPad Mini 5
-"iPad14,2":                                        iPad Mini 6
+"iPad14,1", "iPad14,2":                            iPad Mini 6
 "iPad6,3", "iPad6,4":                              iPad Pro 9.7-inch
 "iPad7,3", "iPad7,4":                              iPad Pro 10.5-inch
 "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
