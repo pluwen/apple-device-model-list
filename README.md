@@ -106,7 +106,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "Watch5,1", "Watch5,2", "Watch5,3", "Watch5,4":    Apple Watch Series 5
 "Watch5,9", "Watch5,10", "Watch5,11", "Watch5,12": Apple Watch SE
 "Watch6,1", "Watch6,2", "Watch6,3", "Watch6,4":    Apple Watch Series 6
-"unknown":                                         Apple Watch Series 7
+"Watch6,6", "Watch6,7", "Watch6,8", "Watch6,9":    Apple Watch Series 7
 ```
 
 ## HomePod
