@@ -55,6 +55,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad5,3", "iPad5,4":                              iPad Air 2
 "iPad11,3", "iPad11,4":                            iPad Air 3
 "iPad13,1", "iPad13,2":                            iPad Air 4
+"iPad13,17":                                       iPad Air 5
 "iPad2,5", "iPad2,6", "iPad2,7":                   iPad Mini
 "iPad4,4", "iPad4,5", "iPad4,6":                   iPad Mini 2
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
