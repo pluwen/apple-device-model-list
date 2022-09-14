@@ -38,6 +38,10 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPhone14,2":                                      iPhone 13 Pro
 "iPhone14,3":                                      iPhone 13 Pro Max
 "iPhone14,6":                                      iPhone SE 3
+"iPhone14,7":                                      iPhone 14
+"iPhone14,8":                                      iPhone 14 Plus
+"iPhone15,2":                                      iPhone 14 Pro
+"iPhone15,3":                                      iPhone 14 Pro Max
 ```
 
 ## iPad
