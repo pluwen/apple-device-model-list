@@ -60,11 +60,14 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad7,11", "iPad7,12":                            iPad 7
 "iPad11,6", "iPad11,7":                            iPad 8
 "iPad12,1", "iPad12,2"::                           iPad 9
+"iPad13,18", "iPad13,19"::                         iPad 10
 "iPad4,1", "iPad4,2", "iPad4,3":                   iPad Air
 "iPad5,3", "iPad5,4":                              iPad Air 2
 "iPad11,3", "iPad11,4":                            iPad Air 3
 "iPad13,1", "iPad13,2":                            iPad Air 4
 "iPad13,16", "iPad13,17":                          iPad Air 5
+"iPad14,8", "iPad14,9":                            iPad Air 11-inch (M2)
+"iPad14,10", "iPad14,11":                          iPad Air 13-inch (M2)
 "iPad2,5", "iPad2,6", "iPad2,7":                   iPad Mini
 "iPad4,4", "iPad4,5", "iPad4,6":                   iPad Mini 2
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
@@ -76,11 +79,13 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
 "iPad8,9", "iPad8,10":                             iPad Pro 11-inch 2
 "iPad13,4", "iPad13,5", "iPad13,6", "iPad13,7":    iPad Pro 11-inch 3
+"iPad16,3", "iPad16,4"                             iPad Pro 11-inch (M4)
 "iPad6,7", "iPad6,8":                              iPad Pro 12.9-inch
 "iPad7,1", "iPad7,2":                              iPad Pro 12.9-inch 2
 "iPad8,5", "iPad8,6", "iPad8,7", "iPad8,8":        iPad Pro 12.9-inch 3
 "iPad8,11", "iPad8,12":                            iPad Pro 12.9-inch 4
 "iPad13,8", "iPad13,9", "iPad13,10", "iPad13,11":  iPad Pro 12.9-inch 5
+"iPad16,5", "iPad16,6"                             iPad Pro 13-inch (M4)
 ```
 
 ## iPod
@@ -134,7 +139,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 
 ## Data
 
-* [Models - The iPhone Wiki](https://www.theiphonewiki.com/wiki/Models)
+* [Models - The Apple Wiki](https://theapplewiki.com/wiki/Models)
 * [EveryiPhone.com](https://everymac.com/systems/apple/iphone/index-iphone-specs.html)
 
 ## Author
