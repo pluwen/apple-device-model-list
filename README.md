@@ -79,12 +79,14 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
 "iPad8,9", "iPad8,10":                             iPad Pro 11-inch 2
 "iPad13,4", "iPad13,5", "iPad13,6", "iPad13,7":    iPad Pro 11-inch 3
+"iPad14,3", "iPad14,4"                             iPad Pro 11-inch (M2)
 "iPad16,3", "iPad16,4"                             iPad Pro 11-inch (M4)
 "iPad6,7", "iPad6,8":                              iPad Pro 12.9-inch
 "iPad7,1", "iPad7,2":                              iPad Pro 12.9-inch 2
 "iPad8,5", "iPad8,6", "iPad8,7", "iPad8,8":        iPad Pro 12.9-inch 3
 "iPad8,11", "iPad8,12":                            iPad Pro 12.9-inch 4
 "iPad13,8", "iPad13,9", "iPad13,10", "iPad13,11":  iPad Pro 12.9-inch 5
+"iPad14,5", "iPad14,6":                            iPad Pro 12.9-inch (M2)
 "iPad16,5", "iPad16,6"                             iPad Pro 13-inch (M4)
 ```
 
@@ -97,6 +99,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPod4,1":                                         iPod Touch 4
 "iPod5,1":                                         iPod Touch 5
 "iPod7,1":                                         iPod Touch 6
+"iPod9,1":                                         iPod Touch 7
 ```
 
 ## Apple TV
@@ -113,15 +116,20 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 ## Apple Watch
 
 ```
-"Watch1,1", "Watch1,2":                            Apple Watch
-"Watch2,6", "Watch2,7":                            Apple Watch Series 1
-"Watch2,3", "Watch2,4":                            Apple Watch Series 2
-"Watch3,1", "Watch3,2", "Watch3,3", "Watch3,4":    Apple Watch Series 3
-"Watch4,1", "Watch4,2", "Watch4,3", "Watch4,4":    Apple Watch Series 4
-"Watch5,1", "Watch5,2", "Watch5,3", "Watch5,4":    Apple Watch Series 5
-"Watch5,9", "Watch5,10", "Watch5,11", "Watch5,12": Apple Watch SE
-"Watch6,1", "Watch6,2", "Watch6,3", "Watch6,4":    Apple Watch Series 6
-"Watch6,6", "Watch6,7", "Watch6,8", "Watch6,9":    Apple Watch Series 7
+"Watch1,1", "Watch1,2":                             Apple Watch
+"Watch2,6", "Watch2,7":                             Apple Watch Series 1
+"Watch2,3", "Watch2,4":                             Apple Watch Series 2
+"Watch3,1", "Watch3,2", "Watch3,3", "Watch3,4":     Apple Watch Series 3
+"Watch4,1", "Watch4,2", "Watch4,3", "Watch4,4":     Apple Watch Series 4
+"Watch5,1", "Watch5,2", "Watch5,3", "Watch5,4":     Apple Watch Series 5
+"Watch5,9", "Watch5,10", "Watch5,11", "Watch5,12":  Apple Watch SE
+"Watch6,1", "Watch6,2", "Watch6,3", "Watch6,4":     Apple Watch Series 6
+"Watch6,6", "Watch6,7", "Watch6,8", "Watch6,9":     Apple Watch Series 7
+"Watch6,10", "Watch6,11", "Watch6,12", "Watch6,13": Apple Watch SE 2
+"Watch6,14", "Watch6,15", "Watch6,16", "Watch6,17": Apple Watch Series 8
+"Watch6,18":                                        Apple Watch Ultra
+"Watch7,1", "Watch7,2", "Watch7,3", "Watch7,4":     Apple Watch Series 9
+"Watch7,5":                                         Apple Watch Ultra 2
 ```
 
 ## HomePod
@@ -141,6 +149,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 
 * [Models - The Apple Wiki](https://theapplewiki.com/wiki/Models)
 * [EveryiPhone.com](https://everymac.com/systems/apple/iphone/index-iphone-specs.html)
+* [EveryMac.com](https://everymac.com)
 
 ## Author
 
