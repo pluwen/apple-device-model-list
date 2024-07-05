@@ -87,7 +87,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad8,11", "iPad8,12":                            iPad Pro 12.9-inch 4
 "iPad13,8", "iPad13,9", "iPad13,10", "iPad13,11":  iPad Pro 12.9-inch 5
 "iPad14,5", "iPad14,6":                            iPad Pro 12.9-inch (M2)
-"iPad16,5", "iPad16,6"                             iPad Pro 13-inch (M4)
+"iPad16,5", "iPad16,6":                             iPad Pro 13-inch (M4)
 ```
 
 ## iPod
