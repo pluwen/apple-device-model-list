@@ -59,8 +59,8 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad7,5", "iPad7,6":                              iPad 6
 "iPad7,11", "iPad7,12":                            iPad 7
 "iPad11,6", "iPad11,7":                            iPad 8
-"iPad12,1", "iPad12,2"::                           iPad 9
-"iPad13,18", "iPad13,19"::                         iPad 10
+"iPad12,1", "iPad12,2":                            iPad 9
+"iPad13,18", "iPad13,19":                          iPad 10
 "iPad4,1", "iPad4,2", "iPad4,3":                   iPad Air
 "iPad5,3", "iPad5,4":                              iPad Air 2
 "iPad11,3", "iPad11,4":                            iPad Air 3
@@ -79,8 +79,8 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4":        iPad Pro 11-inch
 "iPad8,9", "iPad8,10":                             iPad Pro 11-inch 2
 "iPad13,4", "iPad13,5", "iPad13,6", "iPad13,7":    iPad Pro 11-inch 3
-"iPad14,3", "iPad14,4"                             iPad Pro 11-inch (M2)
-"iPad16,3", "iPad16,4"                             iPad Pro 11-inch (M4)
+"iPad14,3", "iPad14,4":                            iPad Pro 11-inch (M2)
+"iPad16,3", "iPad16,4":                            iPad Pro 11-inch (M4)
 "iPad6,7", "iPad6,8":                              iPad Pro 12.9-inch
 "iPad7,1", "iPad7,2":                              iPad Pro 12.9-inch 2
 "iPad8,5", "iPad8,6", "iPad8,7", "iPad8,8":        iPad Pro 12.9-inch 3
