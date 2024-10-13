@@ -115,6 +115,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "AppleTV5,3":                                      Apple TV 4
 "AppleTV6,2":                                      Apple TV 4K
 "AppleTV11,1":                                     Apple TV 4K 2
+"AppleTV14,1":                                     Apple TV 4K 3
 ```
 
 ## Apple Watch
