@@ -50,6 +50,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPhone17,4":                                      iPhone 16 Plus
 "iPhone17,1":                                      iPhone 16 Pro
 "iPhone17,2":                                      iPhone 16 Pro Max
+"iPhone17,5":                                      iPhone 16e
 ```
 
 ## iPad
