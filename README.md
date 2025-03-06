@@ -66,13 +66,16 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad11,6", "iPad11,7":                            iPad 8
 "iPad12,1", "iPad12,2":                            iPad 9
 "iPad13,18", "iPad13,19":                          iPad 10
+"iPad15,7", "iPad15,8":                            iPad (A16)
 "iPad4,1", "iPad4,2", "iPad4,3":                   iPad Air
 "iPad5,3", "iPad5,4":                              iPad Air 2
 "iPad11,3", "iPad11,4":                            iPad Air 3
 "iPad13,1", "iPad13,2":                            iPad Air 4
 "iPad13,16", "iPad13,17":                          iPad Air 5
 "iPad14,8", "iPad14,9":                            iPad Air 11-inch (M2)
+"iPad15,3", "iPad15,4":                            iPad Air 11-inch (M3)
 "iPad14,10", "iPad14,11":                          iPad Air 13-inch (M2)
+"iPad15,5", "iPad15,6":                            iPad Air 13-inch (M3)
 "iPad2,5", "iPad2,6", "iPad2,7":                   iPad Mini
 "iPad4,4", "iPad4,5", "iPad4,6":                   iPad Mini 2
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
