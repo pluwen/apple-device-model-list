@@ -22,9 +22,9 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPhone10,1", "iPhone10,4":                        iPhone 8
 "iPhone10,2", "iPhone10,5":                        iPhone 8 Plus
 "iPhone10,3", "iPhone10,6":                        iPhone X
-"iPhone11,2":                                      iPhone Xs
-"iPhone11,4", "iPhone11,6":                        iPhone Xs Max
-"iPhone11,8":                                      iPhone Xʀ
+"iPhone11,2":                                      iPhone XS
+"iPhone11,4", "iPhone11,6":                        iPhone XS Max
+"iPhone11,8":                                      iPhone XR
 "iPhone12,1":                                      iPhone 11
 "iPhone12,3":                                      iPhone 11 Pro
 "iPhone12,5":                                      iPhone 11 Pro Max
