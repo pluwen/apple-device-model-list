@@ -145,6 +145,9 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "Watch7,1", "Watch7,2", "Watch7,3", "Watch7,4":     Apple Watch Series 9
 "Watch7,5":                                         Apple Watch Ultra 2
 "Watch7,8", "Watch7,9", "Watch7,10", "Watch7,11":   Apple Watch Series 10
+"Watch7,12":                                        Apple Watch Ultra 3
+"Watch7,17", "Watch7,18", "Watch7,19", "Watch7,20": Apple Watch Series 11
+"Watch7,13", "Watch7,14", "Watch7,15", "Watch7,16": Apple Watch SE 3
 ```
 
 ## HomePod
