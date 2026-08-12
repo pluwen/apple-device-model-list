@@ -174,7 +174,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/apple-device-model-list&type=Date)](https://star-history.com/#pluwen/apple-device-model-list&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=pluwen/apple-device-model-list&type=Date)](https://star-history.dera.page/#pluwen/apple-device-model-list&Date)
 
 ## Author
 
