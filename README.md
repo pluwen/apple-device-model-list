@@ -55,6 +55,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPhone18,2":                                      iPhone 17 Pro Max
 "iPhone18,3":                                      iPhone 17
 "iPhone18,4":                                      iPhone Air
+"iPhone18,5":                                      iPhone 17e
 ```
 
 ## iPad
@@ -78,8 +79,10 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPad13,16", "iPad13,17":                          iPad Air 5
 "iPad14,8", "iPad14,9":                            iPad Air 11-inch (M2)
 "iPad15,3", "iPad15,4":                            iPad Air 11-inch (M3)
+"iPad16,8", "iPad16,9":                            iPad Air 11-inch (M4)
 "iPad14,10", "iPad14,11":                          iPad Air 13-inch (M2)
 "iPad15,5", "iPad15,6":                            iPad Air 13-inch (M3)
+"iPad16,10", "iPad16,11":                          iPad Air 13-inch (M4)
 "iPad2,5", "iPad2,6", "iPad2,7":                   iPad Mini
 "iPad4,4", "iPad4,5", "iPad4,6":                   iPad Mini 2
 "iPad4,7", "iPad4,8", "iPad4,9":                   iPad Mini 3
