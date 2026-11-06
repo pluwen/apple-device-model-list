@@ -171,6 +171,12 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "AudioAccessory11,1":                              HomePod mini 2
 ```
 
+## Apple HomeView
+
+```
+"HomeAccessory17,1", "HomeAccessory17,2":          Apple HomeView
+```
+
 ## Simulator
 
 ```
