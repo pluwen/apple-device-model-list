@@ -166,7 +166,9 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 
 ```
 "AudioAccessory1,1", "AudioAccessory1,2":          HomePod
-"AudioAccessory5,1":                               HomePod mini
+"AudioAccessory6,1":                               HomePod (2nd generation)
+"AudioAccessory5,1", "AudioAccessorySingle5,1":    HomePod mini
+"AudioAccessory11,1":                              HomePod mini 2
 ```
 
 ## Simulator
